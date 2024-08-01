@@ -13,5 +13,4 @@ For more details and recommendations, please see [Project Status](https://moment
 ## Resources
 
 - [Documentation](https://momentjs.com/docs/)
-- [Changelog](CHANGELOG.md)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/momentjs)
